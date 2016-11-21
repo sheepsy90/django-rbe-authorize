@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include rbe_authorize/static *
+recursive-include rbe_authorize/templates *
